@@ -1,0 +1,15 @@
+export const userData = [
+    { id: '1', name: 'A', gender: 'male', department: 'DEPARTMENT', currentScores: [85, 92, 76, 88, 94, 67], lastScores: [81, 79, 95, 83, 88, 70], description: 'DESCRIBE YOURSELF' },
+    { id: '2', name: 'B', gender: 'male', department: 'DEPARTMENT', currentScores: [90, 86, 84, 78, 80, 91], lastScores: [83, 89, 72, 95, 87, 79], description: 'DESCRIBE YOURSELF' },
+    { id: '3', name: 'C', gender: 'female', department: 'DEPARTMENT', currentScores: [74, 88, 92, 77, 85, 81], lastScores: [93, 67, 85, 84, 79, 91], description: 'DESCRIBE YOURSELF' },
+    { id: '4', name: 'D', gender: 'male', department: 'DEPARTMENT', currentScores: [80, 77, 90, 95, 70, 86], lastScores: [79, 84, 71, 91, 88, 76], description: 'DESCRIBE YOURSELF' },
+    { id: '5', name: 'E', gender: 'male', department: 'DEPARTMENT', currentScores: [96, 82, 90, 89, 93, 79], lastScores: [88, 79, 83, 94, 77, 92], description: 'DESCRIBE YOURSELF' },
+    { id: '6', name: 'F', gender: 'female', department: 'DEPARTMENT', currentScores: [79, 75, 91, 86, 88, 90], lastScores: [84, 92, 70, 80, 94, 73], description: 'DESCRIBE YOURSELF' },
+    { id: '7', name: 'G', gender: 'male', department: 'DEPARTMENT', currentScores: [67, 91, 79, 88, 83, 75], lastScores: [72, 90, 94, 83, 81, 68], description: 'DESCRIBE YOURSELF' },
+    { id: '8', name: 'H', gender: 'male', department: 'DEPARTMENT', currentScores: [84, 91, 80, 78, 92, 82], lastScores: [75, 90, 79, 80, 77, 79], description: 'DESCRIBE YOURSELF' },
+    { id: '9', name: 'I', gender: 'female', department: 'DEPARTMENT', currentScores: [85, 88, 93, 76, 91, 77], lastScores: [80, 91, 79, 82, 89, 76], description: 'DESCRIBE YOURSELF' },
+    { id: '10', name: 'J', gender: 'male', department: 'DEPARTMENT', currentScores: [91, 80, 95, 89, 78, 84], lastScores: [92, 76, 83, 86, 79, 85], description: 'DESCRIBE YOURSELF' },
+    { id: '11', name: 'K', gender: 'male', department: 'DEPARTMENT', currentScores: [87, 74, 80, 89, 92, 75], lastScores: [84, 87, 76, 91, 85, 88], description: 'DESCRIBE YOURSELF' },
+    { id: '12', name: 'L', gender: 'male', department: 'DEPARTMENT', currentScores: [70, 84, 93, 86, 77, 90], lastScores: [88, 91, 79, 85, 76, 83], description: 'DESCRIBE YOURSELF' },
+    { id: '13', name: 'M', gender: 'female', department: 'DEPARTMENT', currentScores: [82, 93, 76, 85, 91, 78], lastScores: [76, 79, 90, 83, 92, 87], description: 'DESCRIBE YOURSELF' },
+];
